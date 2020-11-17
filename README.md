@@ -13,6 +13,8 @@ We need the .mp4 format for this seminar, so if by mistake another video format 
 
 All exercises are implemented in "s2.py", a deeper explanation on how it works can be found in the end of this file.
 
+Note: see that the path in the screenshots does not correspond to the folder of this repository. This is because with the initial repository I had created I had some storage issues and could not upload it, so finally I decided to create a new one which is actually a copy of the initial one.
+
 EXERCISE 1)
 
 Corresponding files: ex1.png
